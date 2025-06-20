@@ -20,7 +20,7 @@ def convert_units(value, unit_from, unit_to):
 
 
 # Streamlit UI setup
-st.title("Simple Unit Converter By Zeeshan")  # Set title for the web app
+st.title("Simple Unit Converter By Muhammad Zeeshan")  # Set title for the web app
 
 # User input: numerical value to convert
 value = st.number_input("Enter value:", min_value=1.0, step=1.0)
