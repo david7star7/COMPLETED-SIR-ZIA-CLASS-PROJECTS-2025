@@ -33,4 +33,4 @@ if st.button("Generate Password"):
 st.write("------------------")  # Divider for UI separation
 
 # Footer with credit and GitHub link
-st.write("Built with ❤ by [Sadiq Khan](https://github.com/sadiqkhan7777)")
+st.write("Built with ❤ by [Muhammad Zeeshan](https://github.com/sadiqkhan7777)")
